@@ -9,7 +9,7 @@ static const Block blocks[] = {
 	/* {"pacpackages",	0,	8}, */
 	/* {"moonphase",	18000,	5}, */
 	/* {"weather",	18000,	5}, */
-	{"mailbox", 180,	12},
+	/* {"mailbox", 180,	12}, */
 	{"memory",	10,	14},
 	{"root",	60,	12},
 	{"home",	60,	12},
