@@ -14,7 +14,7 @@ static const Block blocks[] = {
 	{"root",	60,	12},
 	{"home",	60,	12},
 	{"cpu",	10,	13},
-	{"volume",	0,	10},
+	{"volume",	1,	10},
 	{"clock",	60,	1},
 	{"battery",	5,	3},
 	{"internet",	5,	4},
