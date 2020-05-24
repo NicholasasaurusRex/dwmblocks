@@ -5,16 +5,17 @@ static const Block blocks[] = {
 	/* {"music",	0,	11}, */
 	/* {"crypto",	0,	13}, */
 	/* {"torrent",	20,	7}, */
-  /* {"news",	0,	6}, */
+	/* {"news",	0,	6}, */
 	/* {"pacpackages",	0,	8}, */
 	/* {"moonphase",	18000,	5}, */
 	/* {"weather",	18000,	5}, */
-	/* {"mailbox", 180,	12}, */
-	{"pacpackages",	0,	8},
+	/* {"pacpackages",	0,	8}, */
+	/* {"mailbox", 	180,	12}, */
+	{"nettraf",	5,	4},
 	{"memory",	10,	14},
 	{"root",	60,	12},
 	{"home",	60,	12},
-	{"cpu",	10,	13},
+	{"cpu",	        10,	13},
 	{"volume",	1,	10},
 	{"battery",	5,	3},
 	{"clock",	60,	1},
