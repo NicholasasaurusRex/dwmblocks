@@ -11,15 +11,15 @@ static const Block blocks[] = {
 	/* {"weather",	18000,	5}, */
 	/* {"pacpackages",	0,	8}, */
 	/* {"mailbox", 	180,	12}, */
-	{"nettraf",     1,	4},
-	{"memory",      5,	14},
+	{"nettraf",     1,	 4},
+	{"memory",     10,	14},
 	{"root",       60,	12},
 	{"home",       60,	12},
-	{"cpu",         5,	13},
+	{"cpu",        10,	13},
 	{"volume",      1,	10},
-	{"battery",     5,	3},
-	{"clock",      60,	1},
-	{"internet",    5,	4},
+	{"battery",    30,	 3},
+	{"clock",      60,	 1},
+	{"internet",    5,	 4},
 	/* {"help-icon",	0,	15}, */
 };
 
