@@ -13,11 +13,11 @@ static const Block blocks[] = {
 	/* {"mailbox", 	180,	12}, */
 	{"nettraf",     1,	 4},
 	{"memory",     10,	14},
-	{"root",       30,	12},
-	{"home",       30,	12},
+	{"root",       60,	12},
+	{"home",       60,	12},
 	{"cpu",        10,	13},
 	{"volume",      1,	10},
-	{"battery",     5,	 3},
+	{"battery",    60,	 3},
 	{"clock",      60,	 1},
 	{"internet",    5,	 4},
 	/* {"help-icon",	0,	15}, */
